@@ -172,7 +172,7 @@ English version: [README.en.md](README.en.md)
 
 **状态。** 平静、喜悦、光、身体感消失，这些迟早会出现。出现时观察它，不追求也不抓取。追求状态是各传承都提醒的常见偏差。
 
-**几周之后。** 可以加入标记，即走神时在心中命名：想、听、痛。或加入身体扫描。此时可以读一本练习手册：[德宝法师](https://en.wikipedia.org/wiki/Henepola_Gunaratana)《观呼吸》是常被推荐的入门手册；坦尼沙罗比丘 [*With Each and Every Breath*](https://www.dhammatalks.org/books/WithEachAndEveryBreath/Section0001.html) 可免费阅读；[马哈希](https://www.accesstoinsight.org/lib/authors/mahasi/)的著作是标记法的来源，其 [*The Progress of Insight*](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html) 是阶段地图的来源；[Culadasa](https://en.wikipedia.org/wiki/Culadasa) *The Mind Illuminated* 是结构最系统的止禅手册，分十个阶段。作者 2019 年因个人操守问题被其教学组织解除职务，书的内容可以独立评价。
+**几周之后。** 可以加入标记，即走神时在心中命名：想、听、痛。或加入身体扫描。此时可以读一本练习手册：[德宝法师](https://en.wikipedia.org/wiki/Henepola_Gunaratana)《观呼吸》是常被推荐的入门手册；坦尼沙罗比丘 [*With Each and Every Breath*](https://www.dhammatalks.org/books/WithEachAndEveryBreath/Section0001.html) 可免费阅读；[马哈希](https://www.accesstoinsight.org/lib/authors/mahasi/)的著作是标记法的来源，其 [*The Progress of Insight*](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html) 是阶段地图的来源；[Culadasa](https://books.google.com/books?vid=ISBN9781501156984) *The Mind Illuminated* 是结构最系统的止禅手册，分十个阶段。作者 2019 年因个人操守问题被其教学组织解除职务，书的内容可以独立评价。
 
 **密集禅修。** 有几个月日常基础后，可以考虑第一次密集禅修。华语世界最容易参加的是[葛印卡系统的十日内观课程](https://www.dhamma.org/zh/)，免费、非宗派，各地有中心。[法鼓山](https://www.ddm.org.tw/)有初级禅训班和禅七。泰国、缅甸、斯里兰卡有接受外国人的道场。没有日常基础直接参加十日课程，对一部分人有不良反应的风险。
 
