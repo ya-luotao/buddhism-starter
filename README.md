@@ -221,6 +221,7 @@ English version: [README.en.md](README.en.md)
 
 - [SuttaCentral](https://suttacentral.net/)。巴利经藏与汉译阿含对照，含庄春江中译和 Bhikkhu Sujato 英译，免费。
 - [CBETA](https://www.cbeta.org/)，[在线阅读](https://cbetaonline.dila.edu.tw/)。汉文大藏经电子版，收录汉传经典及印顺法师全部著作。
+- [如是我闻](https://rushiwowen.co/)。基于 CBETA 等来源的汉文佛典阅读与检索平台，提供原文、现代白话译文及英日 AI 辅助译文；AI 内容明确标注为非权威译本。
 - [台大狮子吼佛学专站](https://buddhaspace.org/)，[阿含经专区](https://buddhaspace.org/agama/)。阿含经的读书会与注解。
 - [印顺文教基金会](https://www.yinshun.org.tw/)。印顺法师著作及相关资源。
 - [法鼓全集](https://ddc.shengyen.org/)。圣严法师全部著作在线。

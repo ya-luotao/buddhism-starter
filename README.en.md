@@ -223,6 +223,7 @@ Texts online:
 - [MCTB.org](https://www.mctb.org/). Daniel Ingram, *Mastering the Core Teachings of the Buddha*, full text, free. A detailed stage map; suitable as a map, not as a score.
 - [Dharma Seed](https://dharmaseed.org/). Recorded talks by insight meditation teachers, free.
 - [CBETA](https://www.cbeta.org/) and its [online reader](https://cbetaonline.dila.edu.tw/). The Chinese Buddhist canon, including the collected works of Yinshun.
+- [RuShiWoWen](https://rushiwowen.co/en). A reader and search platform for Chinese Buddhist texts from CBETA and other sources, with the classical Chinese text, modern Chinese rendering, and clearly labeled non-authoritative AI-assisted English and Japanese translations.
 - [Dharma Drum Complete Works](https://ddc.shengyen.org/). Sheng Yen's collected works in Chinese, free online.
 
 Practice:
